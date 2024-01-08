@@ -23,7 +23,7 @@
                 <input type="text" placeholder="Name" name="txtUsuario"/>
                 <input type="email" placeholder="Email" name="txtEmail"/>
                 <input type="password" placeholder="Password" name="txtContrasena"/>
-                <button>Sign Up</button>
+                <button tpe="submit">SIGN UP</button>
             </form>
         </div>
         <div class="form-container sign-in-container">
